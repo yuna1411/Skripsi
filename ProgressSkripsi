@@ -1,0 +1,85 @@
+Progress SKRIPSI
+
+
+======= DOKUMEN =======
+
+** Paper
+	- Lembar Judul Skripsi
+	- Lembar Persembahan
+	- Lembar Pernyataan Keaslian Skripsi
+	- Lembar Pernyataan Persetujuan Publikasi Karya Ilmiah
+	- Lembar Persetujuan dan Pengesahan Skripsi
+	- Lembar Panduan Penggunaan Hak Cipta
+
+	- Kata Pengantar
+	- Lembar Abstraksi
+	- Daftar Isi
+	- Daftar Simbol 
+	- Daftar Gambar
+	- Daftar Tabel
+	- Daftar Lampiran
+
+	  BAB I PENDAHULUAN
+	1.1 Latar Belakang masalah
+	1.2 Identifikasi permslahan 
+	1.3 Perumusan masalah
+	1.4 Maksud dan tujuan
+	1.5 Metode penelitian
+		1.5.1 Teknik pengumpulan data
+		1.5.2 Model Pengembangan sistem
+			1.5.2.1 Pengembangan Pakar
+			1.5.2.2 Pengembangan software 
+				A. Analisa Kebutuhan software
+				B. Desain
+				C. Code generation
+				D. Testing
+				E. Support
+	1.6 Ruang Lingkup
+
+
+	  BAB II LANDASAN TEORI
+	2.1 Tinjauan Pustaka
+	2.2 Penelitian Terkait
+
+
+	  BAB III ANALISA DAN RANCANGAN SISTEM BERJALAN
+	3.1 Tinjauan Perusahaan
+		3.1.1 Tinjauan Perusahaan
+		3.1.2 Struktur Organisasi
+	3.2 Pengumpulan Data Pakar
+		3.2.1 Objek Pakar
+		3.2.2 Hasil Wawancara Pakar
+	3.3 Algoritma Sistem Pakar
+	3.4 Basis Pengetahuan
+		3.4.1 Tabel Pakar
+		3.4.2 Rule-rule Pada Pakar
+		3.4.3 Pohon Keputusan Pakar
+
+	  BAB IV IMPLEMENTASI DAN PENGUJIAN SISTEM
+	4.1 Analisa Kebutuhan Software
+	4.2 Desain
+		4.2.1 Database
+		4.2.2 Software Architecture
+		4.2.3 User Interface
+	4.3 Code Generation
+	4.4 Testing
+	4.5 Support
+		4.5.1 Publikasi Web
+		4.5.2 Spesifikasi Hardware dan Software
+
+	
+	  BAB V PENUTUP
+	5.1 Kesimpulan
+	5.2 Saran
+
+
+	- DAFTAR PUSTAKA
+	- DAFTAR RIWAYAT HIDUP
+	- LEMBAR KONSULTASI BIMBINGAN
+	- SURAT KETERANGAN RISET 
+	- LAMPIRAN
+		A. Daftar Pertayaan/Kuesioner riset (Wawancara Pakar)
+		B. Daftar Pertanyaan/Kuesioner riset (Post-Test)
+	
+** Cetak Paper
+** Jurnal Referensi (cetak)  
