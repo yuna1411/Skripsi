@@ -99,5 +99,32 @@
 
 ======= PPT & CD =======
 
+
 ======= JADWAL BIMBINGAN =======
 (1) 1-April-2022
+
+
+======= DAFTAR PUSTAKA =======
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+Judul : A Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences
+Author : Johnny Wei-Bing Lin
+Publisher : Lulu.com
+Year : August 18, 2012
+Context : 
+"Python adalah sebuah bahasa multi paradigma dan bisa digunakan untuk membuat script, bahasa pemrograman prosedural yang berbasis object oriented, dan sekaligus bahasa fungsional. Python diketik secara longgar atau dinamis dan interaktif. Tidak ada kompiler terpisah, melainkan perintah yang diketik ke dalam interpreter secara otomatis akan dikompilasi, ditautkan ke sebuah link(sesuai kebutuhan), dan dieksekusi." 
+[9] 
+Judul " Python Machine Learning | Machine Learning and Deep Learning with Python, Scikit-Learn, and TensorFlow 2,3rd Edition
+Author : Sebactian raschka, vahid mirjalili
+Publisher : Packt Publishing
+Year : Dec 12, 2019 
+Context : Python is powerful, yet very accessible. Python has become the most popular programming language for data science because it allows us to forget the tedious parts of programming and offers us an environment where we can quickly jot down our ideas and put concepts directly into action
+
+
+
