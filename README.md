@@ -101,6 +101,7 @@
 
 
 ======= JADWAL BIMBINGAN =======
-(1) 1-April-2022
+(1) 1-April-2022  
+(2) 6-Juni-2022
 
 
