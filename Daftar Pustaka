@@ -38,6 +38,23 @@ Tahun : 2015
 Penerbit : Universitas Atma Jaya Yogyakarta
 
 [4]  
+Judul :  Interpretable Machine Learning
+A Guide for Making Black Box Models Explainable  
+ebook : Leanpub
+Nama : Christoph Molnar  
+Tahun :  2020  
+Penerbit :  Lulu.com
+Halaman : 15-17
+Konten :  
+- Pembelajaran mesin adalah seperangkat metode yang digunakan komputer untuk membuat dan meningkatkan prediksi atau perilaku berdasarkan data.
+- Algoritma adalah seperangkat aturan yang diikuti mesin untuk mencapai tujuan tertentu. Algoritma dapat dianggap sebagai resep yang mendefinisikan input, output, dan semua langkah yang diperlukan untuk mendapatkan dari input ke output.
+- Pembelajaran mesin adalah seperangkat metode yang memungkinkan komputer belajar dari data untuk membuat dan meningkatkan prediksi (misalnya kanker, penjualan mingguan, default kredit). Machine learning merupakan perubahan paradigma dari “pemrograman normal” dimana semua instruksi harus diberikan secara eksplisit kepada komputer menjadi “pemrograman tidak langsung” yang berlangsung melalui penyediaan data.
+- Algoritma pembelajar atau pembelajaran mesin adalah program yang digunakan untuk mempelajari model pembelajaran mesin dari data. Nama lain adalah "induser".
+- Model pembelajaran mesin adalah program yang dipelajari yang memetakan input ke prediksi.
+- Dataset adalah tabel dengan data dari mana mesin belajar. Dataset berisi fitur dan target untuk diprediksi. Ketika digunakan untuk menginduksi model, dataset disebut data pelatihan.
+- Fitur adalah input yang digunakan untuk prediksi atau klasifikasi. Fitur adalah kolom dalam kumpulan data. Di seluruh buku, fitur-fitur diasumsikan dapat ditafsirkan, artinya mudah dipahami maksudnya, seperti suhu pada hari tertentu atau tinggi badan seseorang.
+- Targetnya adalah informasi yang dipelajari mesin untuk diprediksi. Dalam rumus matematika, target biasanya disebut y atau y, untuk satu contoh.  
+
 [5]  
 Judul " Python Machine Learning | Machine Learning and Deep Learning with Python, Scikit-Learn, and TensorFlow 2,3rd Edition  
 Author : Sebactian raschka, vahid mirjalili  
