@@ -93,7 +93,28 @@ logaritma dari rasio jumlah seluruh dokumen dalam
 korpus dengan jumlah dokumen yang memiliki term
 yang dimaksud.
 
-[7]
+[7]  
+Judul artikel : Pemanfaatan Algoritma TF/IDF Pada Sistem Informasi Ecomplaint Handling  
+Judul Jurnal : JURNAL LINK VOL. 27/No.1/februari 2018  
+Penulis : Rudhi Ardi Sasmita, Achmad Zakki Falani  
+Context :  
+Metode TF/IDF merupakan suatu cara untuk
+memberikan bobot hubungan suatu kata (term)
+terhadap dokumen. Metode ini menggabungkan dua
+konsep untuk perhitungan bobot yaitu, frekuensi
+kemunculan sebuah kata di dalam sebuah dokumen
+tertentu yang disebut Term Frequency (TF) dan
+inverse frekuensi dokumen yang mengandung kata
+yang disebut Inverse Document Frequency (IDF).
+Frekuensi kemunculan kata di dalam dokumen yang
+diberikan menunjukkan seberapa penting kata tersebut
+di dalam dokumen. Sehingga bobot hubungan antara
+sebuah kata dan sebuah dokumen akan tinggi apabila
+frekuensi kata tinggi di dalam dokumen dan frekuensi
+keseluruhan dokumen yang mengandung kata tersebut
+akan rendah pada kumpulan dokumen.
+Rumus umum untuk Tf-Idf :
+Wdt = TFdt * IDFt  
 
 [8]  
 Judul : Step-By-Step Guide for AI-Powered Advanced SEO Secrets Finally Revealed!
