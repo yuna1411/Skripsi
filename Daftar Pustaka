@@ -64,7 +64,35 @@ Context :
 Perbedaan tipe machine learning  
 Python is powerful, yet very accessible. Python has become the most popular programming language for data science because it allows us to forget the tedious parts of programming and offers us an environment where we can quickly jot down our ideas and put concepts directly into action  
 
-[6]
+[6]  
+Judul artikel : Sistem Temu Kembali Dokumen Teks dengan Pembobotan
+Tf-Idf Dan LCS 
+Nama jurnal : Jurnal Ilmiah Teknologi Informasi
+Jurusan Teknik Informatika, Fakultas Teknologi Informasi , Institut Teknologi Sepuluh Nopember 
+Volume 11, Nomor 1, Januari 2013 : 17 – 20  
+Penulis :  
+Munjiah Nur Saadah  
+Rigga Widar Atmagi  
+Dyah S. Rahayu  
+Agus Zainal Arifin  
+Context : 
+- Tf-Idf merupakan salah satu metode popular
+yang digunakan dalam menentukan bobot setiap kata.
+Bobot tersebut dapat mencerminkan tingkat
+kepentingannya dalam sebuah dokumen. 
+- Tf-Idf adalah perhitungan yang menggambarkan
+seberapa pentingnya kata (term) dalam sebuah
+dokumen dan korpus. Proses ini digunakan untuk
+menilai bobot relevansi term dari sebuah dokumen
+terhadap seluruh dokumen dalam korpus. 
+Term frequency adalah ukuran seringnya kemunculan
+sebuah term dalam sebuah dokumen dan juga dalam
+seluruh dokumen di dalam korpus. 
+Sedangkan inverse document frequency adalah
+logaritma dari rasio jumlah seluruh dokumen dalam
+korpus dengan jumlah dokumen yang memiliki term
+yang dimaksud.
+
 [7]
 
 [8]  
