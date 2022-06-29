@@ -65,6 +65,10 @@ Perbedaan tipe machine learning
 Python is powerful, yet very accessible. Python has become the most popular programming language for data science because it allows us to forget the tedious parts of programming and offers us an environment where we can quickly jot down our ideas and put concepts directly into action  
 
 [6]  
+C. Fiarni, H. Maharani and N. Calista, "Product Recommendation System Design Using Cosine Similarity and Content-based Filtering Methods," IJITEE, vol.3 No.2, pp. 43-44, 2019.  
+Dengan kata lain, algoritma ini mencoba merekomendasikan item yang sama dengan yang disukai pengguna di masa lalu atau memeriksa tren saat ini. Secara khusus, berbagai item kandidat dibandingkan dengan item yang sebelumnya dipilih oleh pengguna, dan item yang paling cocok kemudian direkomendasikan. Pendekatan ini didasarkan pada riwayat interaksi pengguna dan penyaringan informasi.   
+
+[7]  
 Judul artikel : Sistem Temu Kembali Dokumen Teks dengan Pembobotan
 Tf-Idf Dan LCS 
 Nama jurnal : Jurnal Ilmiah Teknologi Informasi
@@ -93,7 +97,7 @@ logaritma dari rasio jumlah seluruh dokumen dalam
 korpus dengan jumlah dokumen yang memiliki term
 yang dimaksud.
 
-[7]  
+[8]  
 Judul artikel : Pemanfaatan Algoritma TF/IDF Pada Sistem Informasi Ecomplaint Handling  
 Judul Jurnal : JURNAL LINK VOL. 27/No.1/februari 2018  
 Penulis : Rudhi Ardi Sasmita, Achmad Zakki Falani  
@@ -116,7 +120,7 @@ akan rendah pada kumpulan dokumen.
 Rumus umum untuk Tf-Idf :
 Wdt = TFdt * IDFt  
 
-[8]  
+[9]  
 Judul : Step-By-Step Guide for AI-Powered Advanced SEO Secrets Finally Revealed!
 Proven data-driven strategies any beginner can implement  
 Author : Tuhin Banik  
@@ -131,7 +135,7 @@ In information retrieval, Cosine similarity is commonly used algorithm in variou
 3.	Keyword similarity between your site and the competitor’s site
 
 
-[9]
+[10]
 Judul : A Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences  
 Author : Johnny Wei-Bing Lin  
 Publisher : Lulu.com  
@@ -139,7 +143,7 @@ Year : August 18, 2012
 Context : 
 "Python adalah sebuah bahasa multi paradigma dan bisa digunakan untuk membuat script, bahasa pemrograman prosedural yang berbasis object oriented, dan sekaligus bahasa fungsional. Python diketik secara longgar atau dinamis dan interaktif. Tidak ada kompiler terpisah, melainkan perintah yang diketik ke dalam interpreter secara otomatis akan dikompilasi, ditautkan ke sebuah link(sesuai kebutuhan), dan dieksekusi." 
 
-[10]
+[11]
 Judul : Web Scraping with Python | Collecting Data from the Modern Web  
 Author : Ryan Mitchell  
 Published : June 15, 2015   
@@ -148,6 +152,6 @@ Context :
 Secara teori, web scraping adalah praktik pengumpulan data melalui cara apa pun selain dari program yang berinteraksi dengan API (atau, tentu saja, melalui manusia yang menggunakan browser web). Ini paling sering dilakukan dengan menulis program otomatis yang menanyakan server web, meminta Nata (biasanya dalam bentuk HTML dan file lain yang terdiri dari halaman web), dan kemudian mem-parsing data tersebut untuk mengekstrak informasi yang diperlukan.
 Dalam praktiknya, web scraping mencakup berbagai teknik dan teknologi pemrograman, seperti analisis data dan keamanan informasi.
 
-[11]
+[12]
 Nurhayati, TEKNIK ENSEMBLE LEARNING UNTUK PENINGKATAN PERFORMA AKURASI MODEL PREDIKSI (SELEKSI MAHASISWA PENERIMA BEASISWA): Pascal Books, 2022. [E-book].  
 Streamit
