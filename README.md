@@ -39,22 +39,24 @@
 				B. Desain (D)
 				C. Code generation (D)
 				D. Testing (D)
-				E. Support
-	1.6 Ruang Lingkup
+				E. Support (D)
+	1.6 Ruang Lingkup (D)
 
 
-	  BAB II LANDASAN TEORI
-	2.1 Tinjauan Pustaka
-		2.1.1 Konsep Dasar Sistem Rekomendasi
-		2.1.2 Machine Learning
-		2.1.3 Content Based Filtering
-		2.1.4 Term Frequency (TF) - Inverse Document Frequency (IDF)
-		2.1.5 Cosine Similarity
-		2.1.6 Python
-	2.2 Penelitian Terkait
+	  BAB II LANDASAN TEORI (D)
+	2.1 Tinjauan Pustaka (D)
+		2.1.1 Konsep Dasar Sistem Rekomendasi (D)
+		2.1.2 Machine Learning (D)
+		2.1.3 Content Based Filtering (D)
+		2.1.4 Term Frequency (TF) - Inverse Document Frequency (IDF) (D)
+		2.1.5 Cosine Similarity (D)
+		2.1.6 Python (D)
+		2.1.7. (D)
+		2.1.8 (D)
+	2.2 Penelitian Terkait (D)
 
 
-	  BAB III ANALISA DAN RANCANGAN SISTEM BERJALAN
+	  BAB III ANALISA DAN RANCANGAN SISTEM BERJALAN (D)
 	3.1 Tinjauan Perusahaan
 		3.1.1 Tinjauan Perusahaan
 		3.1.2 Struktur Organisasi
@@ -101,7 +103,8 @@
 
 
 ======= JADWAL BIMBINGAN =======
-(1) 1-April-2022  
-(2) 6-Juni-2022
+(1) 1-April-2022 : BAB I dan BAB II
+(2) 6-Juni-2022 : Revisi BAB I dan BAB II  
+(3) 4-Juli-2022 : BAB III 
 
 
