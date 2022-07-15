@@ -69,13 +69,19 @@ def streamlit_menu(example=1):
 selected = streamlit_menu(example=EXAMPLE_NO)
 
 if selected == "Skin Care":
-    st.title(f"Aplikasi Rekomendasi Produk Skin Care :sparkles: {selected}")
+    st.title(f"Aplikasi Rekomendasi Produk Skin Care {selected}" :sparkles:)
     st.write('---') 
 
     st.write(
         """
         ##### **Aplikasi Rekomendasi Produk Skin Care merupakan sebuah implementasi dari proyek Machine Learning yang dapat memberikan rekomendasi produk skin care sesuai dengan jenis dan juga permasalahan kulit Anda. Anda dapat memasukkan jenis kulit, keluhan, dan manfaat yang diinginkan untuk mendapatkan rekomendasi produk skin care yang tepat**
         """)  
+    
+    #displaying a local video file
+
+    video_file = open("skincare.mp4", "rb").read()
+    st.video(video_file, start_time = 1) #displaying the video 
+
 
 if selected == "Get Recommendation":
     st.title(f"Let's {selected}")
