@@ -19,8 +19,7 @@ st.write('---')
 #displaying a local video file
 
 video_file = open("skincare.mp4", "rb").read()
-video_bytes = video_file.read() #reading the file
-st.video(video_bytes, start_time = 0) #displaying the video 
+st.video(video_file, start_time = 0) #displaying the video 
 
 
 st.write('---') 
