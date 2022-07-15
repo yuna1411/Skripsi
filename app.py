@@ -5,7 +5,7 @@ from streamlit_option_menu import option_menu
 EXAMPLE_NO = 1
 
 
-def streamlit_menu(example=1):
+def streamlit_menu(example=3):
     if example == 1:
         # 1. as sidebar menu
         with st.sidebar:
