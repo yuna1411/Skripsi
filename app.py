@@ -27,7 +27,3 @@ st.markdown("""
 st.markdown('''# **Aplikasi Rekomendasi Produk Skin Care**
 Selamat Datang di Dunia Skin Care ^-^  
 ''')
-
-
-# The main app
-app.run()
