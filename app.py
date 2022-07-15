@@ -11,7 +11,7 @@ def streamlit_menu(example=1):
         with st.sidebar:
             selected = option_menu(
                 menu_title="Main Menu",  # required
-                options=["Home", "Get Recommendation", "Data Insight"],  # required
+                options=["Skin Care", "Get Recommendation", "Data Insight"],  # required
                 icons=["house", "stars", "book"],  # optional
                 menu_icon="cast",  # optional
                 default_index=0,  # optional
@@ -22,7 +22,7 @@ def streamlit_menu(example=1):
         # 2. horizontal menu w/o custom style
         selected = option_menu(
             menu_title=None,  # required
-            options=["Home", "Get Recommendation", "Data Insight"],  # required
+            options=["Skin Care", "Get Recommendation", "Data Insight"],  # required
             icons=["house", "stars", "book"],  # optional
             menu_icon="cast",  # optional
             default_index=0,  # optional
@@ -34,7 +34,7 @@ def streamlit_menu(example=1):
         # 2. horizontal menu with custom style
         selected = option_menu(
             menu_title=None,  # required
-            options=["Home", "Get Recommendation", "Data Insight"],  # required
+            options=["Skin Care", "Get Recommendation", "Data Insight"],  # required
             icons=["house", "stars", "book"],  # optional
             menu_icon="cast",  # optional
             default_index=0,  # optional
@@ -56,8 +56,8 @@ def streamlit_menu(example=1):
 
 selected = streamlit_menu(example=EXAMPLE_NO)
 
-if selected == "Home":
-    st.title(f"Welcome {selected}")
+if selected == "Skin Care":
+    st.title(f"Aplikasi Rekomendasi Produk {selected}")
 if selected == "Get Recommendation":
     st.title(f"Let's {selected}")
 if selected == "Data Insight":
