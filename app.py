@@ -75,6 +75,8 @@ if selected == "Skin Care":
     st.write(
         """
         ##### **Aplikasi Rekomendasi Produk Skin Care merupakan salah satu implementasi Machine Learning yang dapat memberikan rekomendasi produk skin care sesuai dengan jenis dan juga permasalahan kulit Anda**
+        """)
+    
     #displaying a local video file
 
     video_file = open("skincare.mp4", "rb").read()
