@@ -70,7 +70,6 @@ selected = streamlit_menu(example=EXAMPLE_NO)
 
 if selected == "Skin Care":
     st.title(f"Aplikasi Rekomendasi Produk {selected}")
-    <a class="nav-link" href="https://youtube.com/dataprofessor" target="_blank">YouTube</a>
 if selected == "Get Recommendation":
     st.title(f"Let's {selected}")
 if selected == "Data Insight":
