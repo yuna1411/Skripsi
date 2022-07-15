@@ -4,3 +4,4 @@ pandas
 scikit-learn
 sklearn
 streamlit
+streamlit_option_menu
