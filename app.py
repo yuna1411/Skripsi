@@ -19,13 +19,23 @@ def streamlit_menu(example=1):
             )
         return selected
 
-
+    if example == 2:
+        # 2. horizontal menu w/o custom style
+        selected = option_menu(
+            menu_title=None,  # required
+            options=["Home", "Projects", "Contact"],  # required
+            icons=["house", "book", "envelope"],  # optional
+            menu_icon="cast",  # optional
+            default_index=0,  # optional
+            orientation="horizontal",
+        )
+        return selected
 
     if example == 3:
         # 2. horizontal menu with custom style
         selected = option_menu(
             menu_title=None,  # required
-            options=["Home", "Projects", "Contact"],  # required
+            options=["Home",  "Get Recommendation", "Data Insight"],  # required
             icons=["house", "book", "envelope"],  # optional
             menu_icon="cast",  # optional
             default_index=0,  # optional
@@ -49,7 +59,7 @@ selected = streamlit_menu(example=EXAMPLE_NO)
 
 if selected == "Home":
     st.title(f"You have selected {selected}")
-if selected == "Projects":
+if selected == "Get Recommendation":
     st.title(f"You have selected {selected}")
-if selected == "Contact":
+if selected == "Data Insight":
     st.title(f"You have selected {selected}")
