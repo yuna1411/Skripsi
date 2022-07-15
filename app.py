@@ -37,7 +37,6 @@ def streamlit_menu(example=1):
             menu_title=None,  # required
             options=["Home",  "Get Recommendation", "Data Insight"],  # required
             icons=["house", "stars", "chart-pie",  # optional
-            menu_icon="cast",  # optional
             default_index=0,  # optional
             orientation="horizontal",
             styles={
