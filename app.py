@@ -69,7 +69,7 @@ def streamlit_menu(example=1):
 selected = streamlit_menu(example=EXAMPLE_NO)
 
 if selected == "Skin Care":
-    st.title(f"Aplikasi Rekomendasi Produk Skin Care {selected} :sparkles:")
+    st.title(f"Aplikasi Rekomendasi Produk {selected} :sparkles:")
     st.write('---') 
 
     st.write(
@@ -85,6 +85,11 @@ if selected == "Skin Care":
 
 if selected == "Get Recommendation":
     st.title(f"Let's {selected}")
+    
+    st.write(
+        """
+        ##### **Untuk mendapatkan rekomendasi, silahkan masukkan jenis kulit, keluhan, dan manfaat yang diinginkan untuk mendapatkan rekomendasi produk skin care yang tepat**
+        """) 
     
     st.write('---') 
 
