@@ -26,7 +26,7 @@ st.write('---')
 
 st.write(
     """
-    ##### **Aplikasi Rekomendasi Produk Skin Care merupakan sebuah implementasi dari proyek Machine Learning yang dapat memberikan rekomendasi produk skin care sesuai dengan jenis dan juga permasalahan kulit Anda. Anda dapat memasukkan jenis kulit, keluhan, dan manfaat yang diinginkan untuk mendapatkan rekomendasi produk skin care yang tepat **
+    ##### **Aplikasi Rekomendasi Produk Skin Care merupakan sebuah implementasi dari proyek Machine Learning yang dapat memberikan rekomendasi produk skin care sesuai dengan jenis dan juga permasalahan kulit Anda. Anda dapat memasukkan jenis kulit, keluhan, dan manfaat yang diinginkan untuk mendapatkan rekomendasi produk skin care yang tepat**
     """)  
 st.write('---') 
 
