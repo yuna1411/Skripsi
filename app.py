@@ -13,7 +13,7 @@ def streamlit_menu(example=1):
             selected = option_menu(
                 menu_title="Main Menu",  # required
                 options=["Home", "Get Recommendation", "Data Insight"],  # required
-                icons=["house", "stars", "circle-three-quarters"],  # optional
+                icons=["house", "stars", "fa-duotone fa-circle-three-quarters"],  # optional
                 menu_icon="cast",  # optional
                 default_index=0,  # optional
             )
@@ -24,7 +24,7 @@ def streamlit_menu(example=1):
         selected = option_menu(
             menu_title=None,  # required
             options=["Home", "Projects", "Contact"],  # required
-            icons=["house", "stars", "circle-three-quarters"],  # optional
+            icons=["house", "stars", "fa-duotone fa-circle-three-quarters"],  # optional
             menu_icon="cast",  # optional
             default_index=0,  # optional
             orientation="horizontal",
@@ -36,7 +36,7 @@ def streamlit_menu(example=1):
         selected = option_menu(
             menu_title=None,  # required
             options=["Home",  "Get Recommendation", "Data Insight"],  # required
-            icons=["house", "stars", "circle-three-quarters"],  # optional
+            icons=["house", "stars", "fa-duotone fa-circle-three-quarters",  # optional
             menu_icon="cast",  # optional
             default_index=0,  # optional
             orientation="horizontal",
@@ -58,8 +58,8 @@ def streamlit_menu(example=1):
 selected = streamlit_menu(example=EXAMPLE_NO)
 
 if selected == "Home":
-    st.title(f"You have selected {selected}")
+    st.title(f"Welcome {selected}")
 if selected == "Get Recommendation":
-    st.title(f"You have selected {selected}")
+    st.title(f"Let's {selected}")
 if selected == "Data Insight":
-    st.title(f"You have selected {selected}")
+    st.title(f"Let's See {selected}")
