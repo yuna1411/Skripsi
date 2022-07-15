@@ -11,8 +11,8 @@ def streamlit_menu(example=1):
         with st.sidebar:
             selected = option_menu(
                 menu_title="Main Menu",  # required
-                options=["Home", "Projects", "Contact"],  # required
-                icons=["house", "stars", "fa-regular fa-chart-pie"],  # optional
+                options=["Home", "Get Recommendation", "Data Insight"],  # required
+                icons=["house", "stars", "books"],  # optional
                 menu_icon="cast",  # optional
                 default_index=0,  # optional
             )
@@ -22,8 +22,8 @@ def streamlit_menu(example=1):
         # 2. horizontal menu w/o custom style
         selected = option_menu(
             menu_title=None,  # required
-            options=["Home", "Projects", "Contact"],  # required
-            icons=["house", "stars", "fa-regular fa-chart-pie"],  # optional
+            options=["Home", "Get Recommendation", "Data Insight"],  # required
+            icons=["house", "stars", "books"],  # optional
             menu_icon="cast",  # optional
             default_index=0,  # optional
             orientation="horizontal",
@@ -34,8 +34,8 @@ def streamlit_menu(example=1):
         # 2. horizontal menu with custom style
         selected = option_menu(
             menu_title=None,  # required
-            options=["Home", "Projects", "Contact"],  # required
-            icons=["house", "stars", "fa-regular fa-chart-pie"],  # optional
+            options=["Home", "Get Recommendation", "Data Insight"],  # required
+            icons=["house", "stars", "books"],  # optional
             menu_icon="cast",  # optional
             default_index=0,  # optional
             orientation="horizontal",
@@ -57,8 +57,8 @@ def streamlit_menu(example=1):
 selected = streamlit_menu(example=EXAMPLE_NO)
 
 if selected == "Home":
-    st.title(f"You have selected {selected}")
-if selected == "Projects":
-    st.title(f"Let us {selected}")
-if selected == "Contact":
-    st.title(f"You have selected {selected}")
+    st.title(f"Welcome {selected}")
+if selected == "Get Recommendation":
+    st.title(f"Let's {selected}")
+if selected == "Data Insight":
+    st.title(f"Take a Look at {selected}")
