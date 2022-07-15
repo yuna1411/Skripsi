@@ -12,10 +12,11 @@ def streamlit_menu(example=1):
         with st.sidebar:
             selected = option_menu(
                 menu_title="Main Menu",  # required
-                options=["Home", "Projects", "Contact"],  # required
+                options=["Home", "Get Recommendation", "Data Insight"],  # required
                 icons=["house", "book", "envelope"],  # optional
                 menu_icon="cast",  # optional
                 default_index=0,  # optional
+                orientation="horizontal",
             )
         return selected
 
