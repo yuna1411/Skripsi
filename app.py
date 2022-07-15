@@ -1,5 +1,17 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
+from numpy.core.fromnumeric import prod
+import tensorflow as tf
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+
+# Import the Dataset 
+skincare = pd.read_csv("skincare.csv", encoding='utf-8', index_col=None)
+
+# Header
+st.set_page_config(page_title="Aplikasi Rekomendasi Produk Skin Care", page_icon=":blossom:", layout="wide",)
 
 # 1=sidebar menu, 2=horizontal menu, 3=horizontal menu w/ custom menu
 EXAMPLE_NO = 2
