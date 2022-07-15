@@ -12,7 +12,7 @@ def streamlit_menu(example=1):
             selected = option_menu(
                 menu_title="Main Menu",  # required
                 options=["Home", "Projects", "Contact"],  # required
-                icons=["house", "stars", "book"],  # optional
+                icons=["house", "stars", "chart-pie"],  # optional
                 menu_icon="cast",  # optional
                 default_index=0,  # optional
             )
