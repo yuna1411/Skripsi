@@ -186,5 +186,5 @@ if selected == "Get Recommendation":
         st.snow()
     
     
-if selected == "Data Insight":
+if selected == "Skin Care 101":
     st.title(f"Take a Look at {selected}")
