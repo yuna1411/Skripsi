@@ -208,7 +208,7 @@ if selected == "Get Recommendation":
     
 if selected == "Skin Care 101":
     st.title(f"Take a Look at {selected}")
+    st.write('---') 
     
-    image = Image.open('image2.jpg')
-
-    st.image(image, caption='Skin Care', width=400)
+    image = Image.open('image.jpg')
+    st.image(image, caption='Skin Care')
