@@ -91,10 +91,15 @@ if selected == "Home":
     
     st.write(
         """
-        **Silahkan pilih halaman *Get Recommendation* untuk mulai mendapatkan rekomendasi**
+        #####**Silahkan pilih halaman *Get Recommendation* untuk mulai mendapatkan rekomendasi**
         **Atau pilih halaman *Skin Care 101* untuk melihat tips dan trik seputar skin care**
+        """)
+    
+    st.write(
+        """
         **Selamat Mencoba :) !**
         """)
+    
     
     st.info('Credit: Created by Dwi Ayu Nouvalina')
 
