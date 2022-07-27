@@ -83,9 +83,17 @@ if selected == "Home":
     st.video(video_file, start_time = 1) #displaying the video 
     
     st.write(' ') 
+    st.write(' ')
     st.write(
         """
         ##### Anda akan mendapatkan rekomendasi produk skin care dari berbagai macam brand kosmetik dengan total 1200+ produk yang disesuaikan dengan kebutuhan kulit Anda.
+        """)
+    
+    st.write(
+        """
+        **Silahkan pilih halaman *Get Recommendation* untuk mulai mendapatkan rekomendasi**
+        **Atau pilih halaman *Skin Care 101* untuk melihat tips dan trik seputar skin care**
+        **Selamat Mencoba :) !**
         """)
     
     st.info('Credit: Created by Dwi Ayu Nouvalina')
