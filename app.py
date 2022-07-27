@@ -82,6 +82,11 @@ if selected == "Home":
     video_file = open("skincare.mp4", "rb").read()
     st.video(video_file, start_time = 1) #displaying the video 
     
+    st.write(
+        """
+        ##### Anda akan mendapatkan rekomendasi produk skin care dari berbagai macam brand kosmetik dengan total 1200+ produk yang disesuaikan dengan kebutuhan Anda.
+        """)
+    
     st.info('Credit: Created by Dwi Ayu Nouvalina')
 
 if selected == "Get Recommendation":
