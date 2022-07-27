@@ -211,4 +211,4 @@ if selected == "Skin Care 101":
     st.write('---') 
     
     image = Image.open('image.jpg')
-    st.image(image, caption='Skin Care')
+    st.image(image, caption='Skin Care', key=6)
