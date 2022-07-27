@@ -86,13 +86,13 @@ if selected == "Home":
     st.write(' ')
     st.write(
         """
-        ##### Anda akan mendapatkan rekomendasi produk skin care dari berbagai macam brand kosmetik dengan total 1200+ produk yang disesuaikan dengan kebutuhan kulit Anda.
+        ##### Anda akan mendapatkan rekomendasi produk skin care dari berbagai macam brand kosmetik dengan total 1200+ produk yang disesuaikan dengan kebutuhan kulit Anda. Terdapat 5 kategori produk skin care dengan 5 tipe kulit berbeda, serta permasalahan dan manfaat yang ingin didapatkan dari produk. Aplikasi rekomendasi ini hanyalah sebuah sistem yang memberikan rekomendasi
+        sesuai dengan data yang Anda masukkan. Hasil rekomendasi tidak menjamin 100% akan cocok kepada pengguna. 
         """)
     
     st.write(
         """
-        #####**Silahkan pilih halaman *Get Recommendation* untuk mulai mendapatkan rekomendasi**
-        **Atau pilih halaman *Skin Care 101* untuk melihat tips dan trik seputar skin care**
+        **Silahkan pilih halaman *Get Recommendation* untuk mulai mendapatkan rekomendasi Atau pilih halaman *Skin Care 101* untuk melihat tips dan trik seputar skin care**
         """)
     
     st.write(
