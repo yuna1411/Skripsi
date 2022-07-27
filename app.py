@@ -23,7 +23,7 @@ def streamlit_menu(example=1):
         with st.sidebar:
             selected = option_menu(
                 menu_title="Main Menu",  # required
-                options=["Home", "Get Recommendation", "Skin Care 101"],  # required
+                options=["Skin Care", "Get Recommendation", "Skin Care 101"],  # required
                 icons=["house", "stars", "book"],  # optional
                 menu_icon="cast",  # optional
                 default_index=0,  # optional
@@ -34,7 +34,7 @@ def streamlit_menu(example=1):
         # 2. horizontal menu w/o custom style
         selected = option_menu(
             menu_title=None,  # required
-            options=["Home", "Get Recommendation", "Skin Care 101"],  # required
+            options=["Skin Care", "Get Recommendation", "Skin Care 101"],  # required
             icons=["house", "stars", "book"],  # optional
             menu_icon="cast",  # optional
             default_index=0,  # optional
@@ -46,7 +46,7 @@ def streamlit_menu(example=1):
         # 2. horizontal menu with custom style
         selected = option_menu(
             menu_title=None,  # required
-            options=["Home", "Get Recommendation", "Skin Care 101"],  # required
+            options=["Skin Care", "Get Recommendation", "Skin Care 101"],  # required
             icons=["house", "stars", "book"],  # optional
             menu_icon="cast",  # optional
             default_index=0,  # optional
@@ -68,7 +68,7 @@ def streamlit_menu(example=1):
 
 selected = streamlit_menu(example=EXAMPLE_NO)
 
-if selected == "Home":
+if selected == "Skin Care":
     st.title(f"Aplikasi Rekomendasi Produk {selected} :sparkles:")
     st.write('---') 
 
@@ -86,8 +86,8 @@ if selected == "Home":
     st.write(' ')
     st.write(
         """
-        ##### Anda akan mendapatkan rekomendasi produk skin care dari berbagai macam brand kosmetik dengan total 1200+ produk yang disesuaikan dengan kebutuhan kulit Anda. Terdapat 5 kategori produk skin care dengan 5 tipe kulit berbeda, serta permasalahan dan manfaat yang ingin didapatkan dari produk. Aplikasi rekomendasi ini hanyalah sebuah sistem yang memberikan rekomendasi
-        sesuai dengan data yang Anda masukkan. Hasil rekomendasi tidak menjamin 100% akan cocok kepada pengguna. 
+        ##### Anda akan mendapatkan rekomendasi produk skin care dari berbagai macam brand kosmetik dengan total 1200+ produk yang disesuaikan dengan kebutuhan kulit Anda. 
+        Terdapat 5 kategori produk skin care dengan 5 tipe kulit berbeda, serta permasalahan dan manfaat yang ingin didapatkan dari produk. Aplikasi rekomendasi ini hanyalah sebuah sistem yang memberikan rekomendasi sesuai dengan data yang Anda masukkan. Hasil rekomendasi tidak menjamin 100% akan cocok kepada pengguna. 
         """)
     
     st.write(
