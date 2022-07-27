@@ -5,6 +5,7 @@ import tensorflow as tf
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from PIL import image
 
 
 # Import the Dataset 
@@ -208,3 +209,7 @@ if selected == "Get Recommendation":
     
 if selected == "Skin Care 101":
     st.title(f"Take a Look at {selected}")
+    
+    image = Image.open('image2.jpg')
+
+    st.image(image, caption='Skin Care', width=400)
