@@ -211,12 +211,8 @@ if selected == "Skin Care 101":
     st.write('---') 
     
     image = Image.open('imagepic.jpg')
-    st.image(image, caption='Skin Care')
+    st.image(image, caption='Skin Care 101')
     
-    st.write(
-        """
-        ##### ** Ayo Mulai Dari Rutinitas Skin Care di Pagi Hari :sun: **
-        """)
     st.write(
         """
         ## **1. Facial Wash**
