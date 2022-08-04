@@ -217,11 +217,11 @@ if selected == "Skin Care 101":
         """
         ##### ** Ayo Mulai Dari Rutinitas Skin Care di Pagi Hari :sun: **
         """)
-     st.write(
+    st.write(
         """
         ## **1. Facial Wash**
         """)
-      st.write(
+     st.write(
         """
         **Gunakanlah produk facial wash yang telah direkomendasikan atau yang sudah cocok untuk Anda. Pada saat mencuci wajah, menggosok wajah dengan kasar dapat menghilangkan pelindung alami kulit. Cara terbaik untuk membersihkan kulit adalah menggunakan ujung jari antara 30-60 detik dengan gerakan memutar.**
         """)
