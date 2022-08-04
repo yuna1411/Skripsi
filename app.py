@@ -219,6 +219,14 @@ if selected == "Skin Care 101":
         """)
     st.write(
         """
-        **Gunakanlah produk facial wash yang telah direkomendasikan atau yang sudah cocok untuk Anda. Pada saat mencuci wajah, menggosok wajah dengan kasar dapat menghilangkan pelindung alami kulit. Cara terbaik untuk membersihkan kulit adalah menggunakan ujung jari antara 30-60 detik dengan gerakan memutar.**
+        **- Gunakanlah produk facial wash yang telah direkomendasikan atau yang sudah cocok untuk Anda**
+        """)
+    st.write(
+        """
+        **- Pada saat mencuci wajah, menggosok wajah dengan kasar dapat menghilangkan pelindung alami kulit**
+        """)
+    st.write(
+        """
+        **- Cara terbaik untuk membersihkan kulit adalah menggunakan ujung jari antara 30-60 detik dengan gerakan memutar**
         """)
     
