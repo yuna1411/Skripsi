@@ -210,5 +210,19 @@ if selected == "Skin Care 101":
     st.title(f"Take a Look at {selected}")
     st.write('---') 
     
-    image = Image.open('image.jpg')
+    image = Image.open('imagepic.jpg')
     st.image(image, caption='Skin Care')
+    
+    st.write(
+        """
+        ##### ** Ayo Mulai Dari Rutinitas Skin Care di Pagi Hari :sun: **
+        """)
+     st.write(
+        """
+        ## **1. Facial Wash**
+        """)
+      st.write(
+        """
+        **Gunakanlah produk facial wash yang telah direkomendasikan atau yang sudah cocok untuk Anda. Pada saat mencuci wajah, menggosok wajah dengan kasar dapat menghilangkan pelindung alami kulit. Cara terbaik untuk membersihkan kulit adalah menggunakan ujung jari antara 30-60 detik dengan gerakan memutar.**
+        """)
+    
