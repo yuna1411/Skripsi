@@ -215,7 +215,12 @@ if selected == "Skin Care 101":
     
     st.write(
         """
-        ## **1. Facial Wash**
+        ##### **Berikut adalah tips dan trik yang bisa Anda ikuti untuk memaksimalkan penggunaan produk skin care**
+        """)
+    
+    st.write(
+        """
+        ### **1. Facial Wash**
         """)
     st.write(
         """
@@ -223,10 +228,60 @@ if selected == "Skin Care 101":
         """)
     st.write(
         """
-        **- Pada saat mencuci wajah, menggosok wajah dengan kasar dapat menghilangkan pelindung alami kulit**
+        **- Cuci muka maksimal 2 kali sehari yaitu di pagi hari dan malam sebelum tidur. Mencuci wajah terlalu sering akan menghilangkan minyak alami kulit. Bagi Anda pemilik wajah kering, tidak masalah jika di pagi hari hanya menggunakan air biasa**
         """)
     st.write(
         """
-        **- Cara terbaik untuk membersihkan kulit adalah menggunakan ujung jari antara 30-60 detik dengan gerakan memutar**
+        **- Jangan menggosok wajah dengan kasar karena dapat menghilangkan pelindung alami kulit**
+        """)
+    st.write(
+        """
+        **- Cara terbaik untuk membersihkan kulit adalah menggunakan ujung jari antara 30-60 detik dengan gerakan memutar dan memijat**
+        """)
+    
+    st.write(
+        """
+        ### **2. Toner**
+        """)
+    st.write(
+        """
+        **- Gunakanlah toner yang telah direkomendasikan atau yang sudah cocok untuk Anda**
+        """)
+    st.write(
+        """
+        **- Tuangkan toner ke kapas lalu usap lembut ke wajah. Untuk hasil yang lebih maksimal, gunakanlah 2 layer toner dimana yang pertama menggunakan kapas dan yang terakhir menggunakan tangan agar lebih meresap**
+        """)
+    st.write(
+        """
+        **- Gunakan toner sehabis mencuci wajah**
+        """)
+    st.write(
+        """
+        **- Bagi Anda pemilik kulit sensitif, sebisa mungkin hindarilah produk skin care yang mengandung fragrance**
+        """)
+    
+    st.write(
+        """
+        ### **3. Serum**
+        """)
+    st.write(
+        """
+        **- Gunakanlah serum yang telah direkomendasikan atau yang sudah cocok untuk Anda untuk hasil lebih maksimal**
+        """)
+    st.write(
+        """
+        **- Serum digunakan setelah wajah benar-benar bersih agar kandungan serum menyerap sempurna**
+        """)
+    st.write(
+        """
+        **- Gunakan serum di pagi dan malam hari sebelum tidur**
+        """)
+    st.write(
+        """
+        **- Pilihlah serum sesuai dengan kebutuhan Anda seperti menghilangkan bekas jerawat atau menghilangkan flek hitam atau anti-aging ataupun manfaat lainnya**
+        """)
+    st.write(
+        """
+        **- Cara memakai serum agar menyerap lebih sempurna adalah tuangkan ke telapak tangan lalu tepuk perlahan-lahan ke wajah dan tunggu hingga meresap**
         """)
     
