@@ -339,7 +339,7 @@ if selected == "Skin Care 101":
         """)
     st.write(
         """
-        ** Sering gonta-ganti skin care akan menyababkan kulit wajah mengalami stress karena harus beradaptasi dengan kandungan produk. Alhasil manfaat yang didapat tidak 100%. Sebaliknya, gunakanlah produk skin care selama berbulan-bulan untuk melihat hasilnya**
+        **Sering gonta-ganti skin care akan menyababkan kulit wajah mengalami stress karena harus beradaptasi dengan kandungan produk. Alhasil manfaat yang didapat tidak 100%. Sebaliknya, gunakanlah produk skin care selama berbulan-bulan untuk melihat hasilnya**
         """)
     
     st.write(
@@ -348,7 +348,7 @@ if selected == "Skin Care 101":
         """)
     st.write(
         """
-        ** Kunci dari perawatan wajah adalah konsistensi. Rajin dan tekunlah dalam menggunakan produk skin care karena hasil yang didapat tidak bersifat instan**
+        **Kunci dari perawatan wajah adalah konsistensi. Rajin dan tekunlah dalam menggunakan produk skin care karena hasil yang didapat tidak bersifat instan**
         """)
     st.write(
         """
@@ -356,7 +356,7 @@ if selected == "Skin Care 101":
         """)
     st.write(
         """
-        ** Berbagai rupa manusia adalah karunia yang diberikan oleh sang Pencipta. Rawatlah karunia itu dengan baik dan sungguh-sungguh sebagai bentuk rasa syukur. Pilihlah produk dan cara perawatan yang sesuai dengan kebutuhan kulit. Menggunakan produk skin care sejak dini sama saja dengan investasi di masa tua.**
+        **Berbagai rupa manusia adalah karunia yang diberikan oleh sang Pencipta. Rawatlah karunia itu dengan baik dan sungguh-sungguh sebagai bentuk rasa syukur. Pilihlah produk dan cara perawatan yang sesuai dengan kebutuhan kulit. Menggunakan produk skin care sejak dini sama saja dengan investasi di masa tua.**
         """)
      
     
