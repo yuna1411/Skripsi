@@ -209,14 +209,16 @@ if selected == "Get Recommendation":
 if selected == "Skin Care 101":
     st.title(f"Take a Look at {selected}")
     st.write('---') 
+
+    st.write(
+        """
+        ##### **Berikut adalah tips dan trik yang bisa Anda ikuti untuk memaksimalkan penggunaan produk skin care**
+        """) 
     
     image = Image.open('imagepic.jpg')
     st.image(image, caption='Skin Care 101')
     
-    st.write(
-        """
-        ##### **Berikut adalah tips dan trik yang bisa Anda ikuti untuk memaksimalkan penggunaan produk skin care**
-        """)
+
     
     st.write(
         """
@@ -284,4 +286,51 @@ if selected == "Skin Care 101":
         """
         **- Cara memakai serum agar menyerap lebih sempurna adalah tuangkan ke telapak tangan lalu tepuk perlahan-lahan ke wajah dan tunggu hingga meresap**
         """)
+    
+    st.write(
+        """
+        ### **4. Moisturizer**
+        """)
+    st.write(
+        """
+        **- Gunakanlah moisturizer (pelembap) yang telah direkomendasikan atau yang sudah cocok untuk Anda untuk hasil lebih maksimal**
+        """)
+    st.write(
+        """
+        **- Moisturizer adalah produk skin care wajib yang harus dimiliki karena mampu mengunci kelembapan dan berbagai nutrisi dari serum yang telah digunakan**
+        """)
+    st.write(
+        """
+        **- Untuk hasil lebih maksimal, gunakanlah pelembap yang berbeda di pagi dan malam hari. Pelembap pagi biasanya dilengkapi dengan sunscreen dan vitamin untuk melindungi kulit dari efek buruk sinar UV dan polusi, sementara pelembap malam mengandung berbagai bahan aktif yang membantu proses regenerasi kulit saat tidur**
+        """)
+    st.write(
+        """
+        **- Berilah jeda waktu antara penggunaan serum dan pelembap sekitar 2-3 menit untuk memastikan serum sudah meresap ke dalam kulit**
+        """)
+    
+    st.write(
+        """
+        ### **5. Sunscreen**
+        """)
+    st.write(
+        """
+        **- Gunakanlah sunscreen (tabir surya) yang telah direkomendasikan atau yang sudah cocok untuk Anda untuk hasil lebih maksimal**
+        """)
+    st.write(
+        """
+        **- Sunscreen adalah kunci utama semua produk skin care karena melindungi kulit dari efek bahaya sinar UVA dan UVB, bahkan light blue. Semua produk skin care akan tidak terasa manfaatnya jika tidak ada yang melindungi kulit**
+        """)
+    st.write(
+        """
+        **- Gunakanlah sunscreen kurang lebih sepanjang jari telunjuk dan tengah tangan untuk memaksimalkan perlindungan**
+        """)
+    st.write(
+        """
+        **- Re-apply sunscreen setiap 2-3 jam sekali atau sebanyak yang dibutuhkan**
+        """)
+    st.write(
+        """
+        **- Tetap menggunakan sunscreen meskipun di dalam rumah karena sinar matahari di jam 10 ke atas tetap tembus melewati jendela dan pada saat cuaca mendung**
+        """)
+    
     
