@@ -87,21 +87,6 @@
 	5.2 Saran
 
 
-	- DAFTAR PUSTAKA
-	- DAFTAR RIWAYAT HIDUP
-	- LEMBAR KONSULTASI BIMBINGAN
-	- SURAT KETERANGAN RISET 
-	- LAMPIRAN
-		A. Daftar Pertayaan/Kuesioner riset (Wawancara Pakar)
-		B. Daftar Pertanyaan/Kuesioner riset (Post-Test)
-	
-** Cetak Paper  
-** Jurnal Referensi (cetak)  
-
-
-======= PPT & CD =======
-
-
 ======= JADWAL BIMBINGAN =======
 (1) 1-April-2022 : BAB I dan BAB II
 (2) 6-Juni-2022 : Revisi BAB I dan BAB II  
